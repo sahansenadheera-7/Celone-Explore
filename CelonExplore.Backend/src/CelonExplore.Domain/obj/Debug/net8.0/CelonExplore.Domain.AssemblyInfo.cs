@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CelonExplore.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bda12228d3c3e519e3c7f88816df0f2e4b98799")]
 [assembly: System.Reflection.AssemblyProductAttribute("CelonExplore.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CelonExplore.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
