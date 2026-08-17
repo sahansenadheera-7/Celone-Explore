@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CelonExplore.Application/1.0.0": {
+        "dependencies": {
+          "CelonExplore.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CelonExplore.Application.dll": {}
+        }
+      },
+      "CelonExplore.Domain/1.0.0": {
+        "runtime": {
+          "CelonExplore.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CelonExplore.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CelonExplore.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

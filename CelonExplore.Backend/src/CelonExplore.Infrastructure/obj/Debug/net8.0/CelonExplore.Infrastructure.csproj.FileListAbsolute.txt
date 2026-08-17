@@ -1,0 +1,17 @@
+C:\Users\L E N O V O\Desktop\CelonExplore\CelonExplore.Backend\src\CelonExplore.Infrastructure\bin\Debug\net8.0\CelonExplore.Infrastructure.deps.json
+C:\Users\L E N O V O\Desktop\CelonExplore\CelonExplore.Backend\src\CelonExplore.Infrastructure\bin\Debug\net8.0\CelonExplore.Infrastructure.dll
+C:\Users\L E N O V O\Desktop\CelonExplore\CelonExplore.Backend\src\CelonExplore.Infrastructure\bin\Debug\net8.0\CelonExplore.Infrastructure.pdb
+C:\Users\L E N O V O\Desktop\CelonExplore\CelonExplore.Backend\src\CelonExplore.Infrastructure\bin\Debug\net8.0\CelonExplore.Application.dll
+C:\Users\L E N O V O\Desktop\CelonExplore\CelonExplore.Backend\src\CelonExplore.Infrastructure\bin\Debug\net8.0\CelonExplore.Domain.dll
+C:\Users\L E N O V O\Desktop\CelonExplore\CelonExplore.Backend\src\CelonExplore.Infrastructure\bin\Debug\net8.0\CelonExplore.Domain.pdb
+C:\Users\L E N O V O\Desktop\CelonExplore\CelonExplore.Backend\src\CelonExplore.Infrastructure\bin\Debug\net8.0\CelonExplore.Application.pdb
+C:\Users\L E N O V O\Desktop\CelonExplore\CelonExplore.Backend\src\CelonExplore.Infrastructure\obj\Debug\net8.0\CelonExplore.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\L E N O V O\Desktop\CelonExplore\CelonExplore.Backend\src\CelonExplore.Infrastructure\obj\Debug\net8.0\CelonExplore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L E N O V O\Desktop\CelonExplore\CelonExplore.Backend\src\CelonExplore.Infrastructure\obj\Debug\net8.0\CelonExplore.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\L E N O V O\Desktop\CelonExplore\CelonExplore.Backend\src\CelonExplore.Infrastructure\obj\Debug\net8.0\CelonExplore.Infrastructure.AssemblyInfo.cs
+C:\Users\L E N O V O\Desktop\CelonExplore\CelonExplore.Backend\src\CelonExplore.Infrastructure\obj\Debug\net8.0\CelonExplore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\L E N O V O\Desktop\CelonExplore\CelonExplore.Backend\src\CelonExplore.Infrastructure\obj\Debug\net8.0\CelonExp.CC527B03.Up2Date
+C:\Users\L E N O V O\Desktop\CelonExplore\CelonExplore.Backend\src\CelonExplore.Infrastructure\obj\Debug\net8.0\CelonExplore.Infrastructure.dll
+C:\Users\L E N O V O\Desktop\CelonExplore\CelonExplore.Backend\src\CelonExplore.Infrastructure\obj\Debug\net8.0\refint\CelonExplore.Infrastructure.dll
+C:\Users\L E N O V O\Desktop\CelonExplore\CelonExplore.Backend\src\CelonExplore.Infrastructure\obj\Debug\net8.0\CelonExplore.Infrastructure.pdb
+C:\Users\L E N O V O\Desktop\CelonExplore\CelonExplore.Backend\src\CelonExplore.Infrastructure\obj\Debug\net8.0\ref\CelonExplore.Infrastructure.dll

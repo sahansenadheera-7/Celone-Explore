@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "77HHRDrPuYjW5NFzp0bh/xarlORRrbRDeYa1ntCwyy8=",
+  "Source": "CelonExplore.API",
+  "BasePath": "_content/CelonExplore.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
