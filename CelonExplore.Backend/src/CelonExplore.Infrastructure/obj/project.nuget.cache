@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ClEF8y4Kh60=",
+  "dgSpecHash": "wTAlb4w0t2A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\L E N O V O\\Desktop\\CelonExplore\\CelonExplore.Backend\\src\\CelonExplore.Infrastructure\\CelonExplore.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\L E N O V O\\Documents\\GitHub\\Celone-Explore\\CelonExplore.Backend\\src\\CelonExplore.Infrastructure\\CelonExplore.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\L E N O V O\\.nuget\\packages\\microsoft.bcl.cryptography\\10.0.2\\microsoft.bcl.cryptography.10.0.2.nupkg.sha512",
     "C:\\Users\\L E N O V O\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.20\\microsoft.entityframeworkcore.8.0.20.nupkg.sha512",

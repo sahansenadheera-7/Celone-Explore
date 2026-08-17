@@ -2965,11 +2965,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\L E N O V O\\Desktop\\CelonExplore\\CelonExplore.Backend\\src\\CelonExplore.API\\CelonExplore.API.csproj",
+      "projectUniqueName": "C:\\Users\\L E N O V O\\Documents\\GitHub\\Celone-Explore\\CelonExplore.Backend\\src\\CelonExplore.API\\CelonExplore.API.csproj",
       "projectName": "CelonExplore.API",
-      "projectPath": "C:\\Users\\L E N O V O\\Desktop\\CelonExplore\\CelonExplore.Backend\\src\\CelonExplore.API\\CelonExplore.API.csproj",
+      "projectPath": "C:\\Users\\L E N O V O\\Documents\\GitHub\\Celone-Explore\\CelonExplore.Backend\\src\\CelonExplore.API\\CelonExplore.API.csproj",
       "packagesPath": "C:\\Users\\L E N O V O\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\L E N O V O\\Desktop\\CelonExplore\\CelonExplore.Backend\\src\\CelonExplore.API\\obj\\",
+      "outputPath": "C:\\Users\\L E N O V O\\Documents\\GitHub\\Celone-Explore\\CelonExplore.Backend\\src\\CelonExplore.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\L E N O V O\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2984,11 +2984,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\L E N O V O\\Desktop\\CelonExplore\\CelonExplore.Backend\\src\\CelonExplore.Application\\CelonExplore.Application.csproj": {
-              "projectPath": "C:\\Users\\L E N O V O\\Desktop\\CelonExplore\\CelonExplore.Backend\\src\\CelonExplore.Application\\CelonExplore.Application.csproj"
+            "C:\\Users\\L E N O V O\\Documents\\GitHub\\Celone-Explore\\CelonExplore.Backend\\src\\CelonExplore.Application\\CelonExplore.Application.csproj": {
+              "projectPath": "C:\\Users\\L E N O V O\\Documents\\GitHub\\Celone-Explore\\CelonExplore.Backend\\src\\CelonExplore.Application\\CelonExplore.Application.csproj"
             },
-            "C:\\Users\\L E N O V O\\Desktop\\CelonExplore\\CelonExplore.Backend\\src\\CelonExplore.Infrastructure\\CelonExplore.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\L E N O V O\\Desktop\\CelonExplore\\CelonExplore.Backend\\src\\CelonExplore.Infrastructure\\CelonExplore.Infrastructure.csproj"
+            "C:\\Users\\L E N O V O\\Documents\\GitHub\\Celone-Explore\\CelonExplore.Backend\\src\\CelonExplore.Infrastructure\\CelonExplore.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\L E N O V O\\Documents\\GitHub\\Celone-Explore\\CelonExplore.Backend\\src\\CelonExplore.Infrastructure\\CelonExplore.Infrastructure.csproj"
             }
           }
         }

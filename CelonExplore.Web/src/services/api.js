@@ -1,18 +1,23 @@
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL;
+const API_BASE_URL =
+    import.meta.env.VITE_API_BASE_URL;
 
 export async function apiRequest(
     endpoint,
     options = {}
 ) {
-    const token = localStorage.getItem("token");
+    const token =
+        localStorage.getItem("token");
 
     const headers = {
-        "Content-Type": "application/json",
+        ...(options.body
+            ? { "Content-Type": "application/json" }
+            : {}),
         ...(options.headers || {}),
     };
 
     if (token) {
-        headers.Authorization = `Bearer ${token}`;
+        headers.Authorization =
+            `Bearer ${token}`;
     }
 
     const response = await fetch(
@@ -23,11 +28,21 @@ export async function apiRequest(
         }
     );
 
-    const data = await response.json().catch(() => null);
+    const data =
+        await response
+            .json()
+            .catch(() => null);
 
     if (!response.ok) {
+
+        if (response.status === 401) {
+            localStorage.removeItem("token");
+            localStorage.removeItem("user");
+        }
+
         throw new Error(
-            data?.message || "Something went wrong."
+            data?.message ||
+            "Something went wrong."
         );
     }
 

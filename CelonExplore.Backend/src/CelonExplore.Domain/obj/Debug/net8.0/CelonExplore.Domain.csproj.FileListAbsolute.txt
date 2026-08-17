@@ -9,3 +9,15 @@ C:\Users\L E N O V O\Desktop\CelonExplore\CelonExplore.Backend\src\CelonExplore.
 C:\Users\L E N O V O\Desktop\CelonExplore\CelonExplore.Backend\src\CelonExplore.Domain\obj\Debug\net8.0\refint\CelonExplore.Domain.dll
 C:\Users\L E N O V O\Desktop\CelonExplore\CelonExplore.Backend\src\CelonExplore.Domain\obj\Debug\net8.0\CelonExplore.Domain.pdb
 C:\Users\L E N O V O\Desktop\CelonExplore\CelonExplore.Backend\src\CelonExplore.Domain\obj\Debug\net8.0\ref\CelonExplore.Domain.dll
+C:\Users\L E N O V O\Documents\GitHub\Celone-Explore\CelonExplore.Backend\src\CelonExplore.Domain\bin\Debug\net8.0\CelonExplore.Domain.deps.json
+C:\Users\L E N O V O\Documents\GitHub\Celone-Explore\CelonExplore.Backend\src\CelonExplore.Domain\bin\Debug\net8.0\CelonExplore.Domain.dll
+C:\Users\L E N O V O\Documents\GitHub\Celone-Explore\CelonExplore.Backend\src\CelonExplore.Domain\bin\Debug\net8.0\CelonExplore.Domain.pdb
+C:\Users\L E N O V O\Documents\GitHub\Celone-Explore\CelonExplore.Backend\src\CelonExplore.Domain\obj\Debug\net8.0\CelonExplore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L E N O V O\Documents\GitHub\Celone-Explore\CelonExplore.Backend\src\CelonExplore.Domain\obj\Debug\net8.0\CelonExplore.Domain.AssemblyInfoInputs.cache
+C:\Users\L E N O V O\Documents\GitHub\Celone-Explore\CelonExplore.Backend\src\CelonExplore.Domain\obj\Debug\net8.0\CelonExplore.Domain.AssemblyInfo.cs
+C:\Users\L E N O V O\Documents\GitHub\Celone-Explore\CelonExplore.Backend\src\CelonExplore.Domain\obj\Debug\net8.0\CelonExplore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\L E N O V O\Documents\GitHub\Celone-Explore\CelonExplore.Backend\src\CelonExplore.Domain\obj\Debug\net8.0\CelonExplore.Domain.sourcelink.json
+C:\Users\L E N O V O\Documents\GitHub\Celone-Explore\CelonExplore.Backend\src\CelonExplore.Domain\obj\Debug\net8.0\CelonExplore.Domain.dll
+C:\Users\L E N O V O\Documents\GitHub\Celone-Explore\CelonExplore.Backend\src\CelonExplore.Domain\obj\Debug\net8.0\refint\CelonExplore.Domain.dll
+C:\Users\L E N O V O\Documents\GitHub\Celone-Explore\CelonExplore.Backend\src\CelonExplore.Domain\obj\Debug\net8.0\CelonExplore.Domain.pdb
+C:\Users\L E N O V O\Documents\GitHub\Celone-Explore\CelonExplore.Backend\src\CelonExplore.Domain\obj\Debug\net8.0\ref\CelonExplore.Domain.dll

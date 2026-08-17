@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gV2Gb9LQ/R4=",
+  "dgSpecHash": "Qf3aXH2wOFQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\L E N O V O\\Desktop\\CelonExplore\\CelonExplore.Backend\\src\\CelonExplore.API\\CelonExplore.API.csproj",
+  "projectFilePath": "C:\\Users\\L E N O V O\\Documents\\GitHub\\Celone-Explore\\CelonExplore.Backend\\src\\CelonExplore.API\\CelonExplore.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\L E N O V O\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\L E N O V O\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.20\\microsoft.aspnetcore.authentication.jwtbearer.8.0.20.nupkg.sha512",

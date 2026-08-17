@@ -4,15 +4,27 @@ import {
     Route,
 } from "react-router-dom";
 
-import LandingPage from "../pages/home/LandingPage";
+import LandingPage
+    from "../pages/home/LandingPage";
 
-import AdminDashboard from "../pages/dashboard/AdminDashboard";
-import HotelOwnerDashboard from "../pages/dashboard/HotelOwnerDashboard";
-import RestaurantOwnerDashboard from "../pages/dashboard/RestaurantOwnerDashboard";
+import AdminDashboard
+    from "../pages/dashboard/AdminDashboard";
 
-import UnauthorizedPage from "../pages/auth/UnauthorizedPage";
+import HotelOwnerDashboard
+    from "../pages/dashboard/HotelOwnerDashboard";
 
-import ProtectedRoute from "../components/common/ProtectedRoute";
+import RestaurantOwnerDashboard
+    from "../pages/dashboard/RestaurantOwnerDashboard";
+
+import UnauthorizedPage
+    from "../pages/auth/UnauthorizedPage";
+
+import AttractionsManagement
+    from "../pages/attractions/AttractionsManagement";
+
+import ProtectedRoute
+    from "../components/common/ProtectedRoute";
+
 
 function AppRoutes() {
     return (
@@ -20,13 +32,14 @@ function AppRoutes() {
 
             <Routes>
 
-                {/* Public */}
+                {/* PUBLIC */}
                 <Route
                     path="/"
                     element={<LandingPage />}
                 />
 
-                {/* Admin */}
+
+                {/* ADMIN DASHBOARD */}
                 <Route
                     path="/admin/dashboard"
                     element={
@@ -38,7 +51,21 @@ function AppRoutes() {
                     }
                 />
 
-                {/* Hotel Owner */}
+
+                {/* ADMIN ATTRACTIONS */}
+                <Route
+                    path="/admin/attractions"
+                    element={
+                        <ProtectedRoute
+                            allowedRoles={["Admin"]}
+                        >
+                            <AttractionsManagement />
+                        </ProtectedRoute>
+                    }
+                />
+
+
+                {/* HOTEL OWNER */}
                 <Route
                     path="/hotel-owner/dashboard"
                     element={
@@ -50,7 +77,8 @@ function AppRoutes() {
                     }
                 />
 
-                {/* Restaurant Owner */}
+
+                {/* RESTAURANT OWNER */}
                 <Route
                     path="/restaurant-owner/dashboard"
                     element={
@@ -62,10 +90,18 @@ function AppRoutes() {
                     }
                 />
 
-                {/* Unauthorized */}
+
+                {/* UNAUTHORIZED */}
                 <Route
                     path="/unauthorized"
                     element={<UnauthorizedPage />}
+                />
+
+
+                {/* FALLBACK */}
+                <Route
+                    path="*"
+                    element={<LandingPage />}
                 />
 
             </Routes>

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\L E N O V O\\Desktop\\CelonExplore\\CelonExplore.Backend\\src\\CelonExplore.Domain\\CelonExplore.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\L E N O V O\\Documents\\GitHub\\Celone-Explore\\CelonExplore.Backend\\src\\CelonExplore.Domain\\CelonExplore.Domain.csproj",
       "projectName": "CelonExplore.Domain",
-      "projectPath": "C:\\Users\\L E N O V O\\Desktop\\CelonExplore\\CelonExplore.Backend\\src\\CelonExplore.Domain\\CelonExplore.Domain.csproj",
+      "projectPath": "C:\\Users\\L E N O V O\\Documents\\GitHub\\Celone-Explore\\CelonExplore.Backend\\src\\CelonExplore.Domain\\CelonExplore.Domain.csproj",
       "packagesPath": "C:\\Users\\L E N O V O\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\L E N O V O\\Desktop\\CelonExplore\\CelonExplore.Backend\\src\\CelonExplore.Domain\\obj\\",
+      "outputPath": "C:\\Users\\L E N O V O\\Documents\\GitHub\\Celone-Explore\\CelonExplore.Backend\\src\\CelonExplore.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\L E N O V O\\AppData\\Roaming\\NuGet\\NuGet.Config"

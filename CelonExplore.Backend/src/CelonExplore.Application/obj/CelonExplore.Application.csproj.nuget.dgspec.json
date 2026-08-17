@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\L E N O V O\\Desktop\\CelonExplore\\CelonExplore.Backend\\src\\CelonExplore.Application\\CelonExplore.Application.csproj": {}
+    "C:\\Users\\L E N O V O\\Documents\\GitHub\\Celone-Explore\\CelonExplore.Backend\\src\\CelonExplore.Application\\CelonExplore.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\L E N O V O\\Desktop\\CelonExplore\\CelonExplore.Backend\\src\\CelonExplore.Application\\CelonExplore.Application.csproj": {
+    "C:\\Users\\L E N O V O\\Documents\\GitHub\\Celone-Explore\\CelonExplore.Backend\\src\\CelonExplore.Application\\CelonExplore.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\L E N O V O\\Desktop\\CelonExplore\\CelonExplore.Backend\\src\\CelonExplore.Application\\CelonExplore.Application.csproj",
+        "projectUniqueName": "C:\\Users\\L E N O V O\\Documents\\GitHub\\Celone-Explore\\CelonExplore.Backend\\src\\CelonExplore.Application\\CelonExplore.Application.csproj",
         "projectName": "CelonExplore.Application",
-        "projectPath": "C:\\Users\\L E N O V O\\Desktop\\CelonExplore\\CelonExplore.Backend\\src\\CelonExplore.Application\\CelonExplore.Application.csproj",
+        "projectPath": "C:\\Users\\L E N O V O\\Documents\\GitHub\\Celone-Explore\\CelonExplore.Backend\\src\\CelonExplore.Application\\CelonExplore.Application.csproj",
         "packagesPath": "C:\\Users\\L E N O V O\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\L E N O V O\\Desktop\\CelonExplore\\CelonExplore.Backend\\src\\CelonExplore.Application\\obj\\",
+        "outputPath": "C:\\Users\\L E N O V O\\Documents\\GitHub\\Celone-Explore\\CelonExplore.Backend\\src\\CelonExplore.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\L E N O V O\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\L E N O V O\\Desktop\\CelonExplore\\CelonExplore.Backend\\src\\CelonExplore.Domain\\CelonExplore.Domain.csproj": {
-                "projectPath": "C:\\Users\\L E N O V O\\Desktop\\CelonExplore\\CelonExplore.Backend\\src\\CelonExplore.Domain\\CelonExplore.Domain.csproj"
+              "C:\\Users\\L E N O V O\\Documents\\GitHub\\Celone-Explore\\CelonExplore.Backend\\src\\CelonExplore.Domain\\CelonExplore.Domain.csproj": {
+                "projectPath": "C:\\Users\\L E N O V O\\Documents\\GitHub\\Celone-Explore\\CelonExplore.Backend\\src\\CelonExplore.Domain\\CelonExplore.Domain.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\L E N O V O\\Desktop\\CelonExplore\\CelonExplore.Backend\\src\\CelonExplore.Domain\\CelonExplore.Domain.csproj": {
+    "C:\\Users\\L E N O V O\\Documents\\GitHub\\Celone-Explore\\CelonExplore.Backend\\src\\CelonExplore.Domain\\CelonExplore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\L E N O V O\\Desktop\\CelonExplore\\CelonExplore.Backend\\src\\CelonExplore.Domain\\CelonExplore.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\L E N O V O\\Documents\\GitHub\\Celone-Explore\\CelonExplore.Backend\\src\\CelonExplore.Domain\\CelonExplore.Domain.csproj",
         "projectName": "CelonExplore.Domain",
-        "projectPath": "C:\\Users\\L E N O V O\\Desktop\\CelonExplore\\CelonExplore.Backend\\src\\CelonExplore.Domain\\CelonExplore.Domain.csproj",
+        "projectPath": "C:\\Users\\L E N O V O\\Documents\\GitHub\\Celone-Explore\\CelonExplore.Backend\\src\\CelonExplore.Domain\\CelonExplore.Domain.csproj",
         "packagesPath": "C:\\Users\\L E N O V O\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\L E N O V O\\Desktop\\CelonExplore\\CelonExplore.Backend\\src\\CelonExplore.Domain\\obj\\",
+        "outputPath": "C:\\Users\\L E N O V O\\Documents\\GitHub\\Celone-Explore\\CelonExplore.Backend\\src\\CelonExplore.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\L E N O V O\\AppData\\Roaming\\NuGet\\NuGet.Config"
